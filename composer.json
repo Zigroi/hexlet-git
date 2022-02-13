@@ -1,0 +1,11 @@
+{
+    "name": "user/hexlet-git",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Николай Пупышев",
+            "email": "pupyshev.nickolay@yandex.ru"
+        }
+    ],
+    "require": {}
+}
